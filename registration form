@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Form in HTML </title>
+</head>
+<body>
+<h2>Registration </h2>
+<form>
+<fieldset>
+<legend>User Personal Information </legend>
+<label>Enter your name :</label><br>
+first name-<br>
+<input type="text" name="name"><br>
+middle name-<br>
+<input type="text" name="name"><br>
+last name-<br>
+<input type="text" name="name"><br>
+<label>Enter your email </label><br>
+<input type="email" name="email"><br>
+<label>Enter your Password </label><br>
+<input type="password" name="pass"><br>
+<label>Confirm your Password </label><br>
+<input type="password" name="pass"><br>
+<br><label>enter Enter your Gender</label><br>
+<input type="radio" id="gender" name="gender" value="male"/>Male <br>
+<input type="radio" id="gender" name="gender" value="female"/>Female <br/>
+<input type="radio" id="gender" name="gender" value="Others"/>Others <br/>
+<br>Enter your Address :<br>
+Lane 1:<br>
+<textarea></textarea><br>
+lane 2:<br>
+<textarea></textarea><br>
+Lane 3: <br>
+<textarea></textarea><br>
+Pin code:<br>
+<textarea></textarea><br>
+<br>
+<select name="country" id="register_country" stylex="width:160px">
+<option value="South Korea">South korea</option>
+<option value="India">India</option>
+<option value="England">England</option>
+<option value="Singapore">Singapore</option>
+
+Mobile number : <br>
+<textarea></textarea><br>
+<br> Alternate mobile number :<br>
+<textarea></textarea><br>
+<label>Enter your User name </label><br>
+<input type="text" name="User name"><br>
+<label>Enter your Password </label><br>
+<input type="password" name="pass"><br>
+<input type="submit" value="Sign-Up"><br>
+</fieldset>
+</body>
+</html>
