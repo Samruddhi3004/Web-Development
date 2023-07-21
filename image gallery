@@ -1,0 +1,72 @@
+html>
+<head>
+<link rel="stylesheet" href="style.css"><br>
+</head>
+<body>
+<body background="/Users/samruddhi/Desktop/images.jpeg">
+<div id = "div1">
+<h1 align = "center"> Image Gallery Homepage</h1>
+</div>
+<h4 align = "center">
+<img src="/Users/samruddhi/Desktop/Unknown-1.jpeg"><br>
+<a href ="cars.html"> to view images of cars CLICK HERE </a>
+<link rel="stylesheet" type="css" href="style.css"><br> <br>
+<img src="/Users/samruddhi/Desktop/Unknown copy.jpeg"><br>
+<a href ="plants.html"> to view images of plants CLICK HERE </a>
+<link rel="stylesheet" type="css" href="style.css"><br> <br>
+<img src="/Users/samruddhi/Desktop/images copy 2.jpeg"><br>
+<a href ="animals.html"> to view images of animals CLICK HERE </a>
+<link rel="stylesheet" type="css" href="style.css"><br> <br>
+</h4>
+</div>
+</body>
+</html>
+1:- Home Page of image gallery.
+# div 1
+{
+width:500px;
+border:1px solid black;
+background-image:linear-gradient(to right bottom ,red,black,blue);
+}
+
+2-Car page image gallery.
+
+<html>
+<body>
+<body
+background="/Users/samruddhi/Desktop/plain-dirty-grunge-background-vector.jpg">
+
+<h 2 align = "center"> <h1 a> Images of Cars</h1>
+<img src ="Desktop/drive-download-20230601T160052Z-001/blue car.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/mercedes.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/farari.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/mustang.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/white car.jpg">
+</body>
+</html>
+4-Animals page image gallery.
+<html>
+<body>
+<body background="/Users/samruddhi/Desktop/images.jpeg">
+<h 2 align = "center">
+<h1 a> Images of Animals </h1>
+<img src ="Desktop/drive-download-20230601T160052Z-001/dogy.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/elephant.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/lion.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/kangaroo.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/zebra.jpg">
+</body>
+</html>
+3-Plant page image gallery.
+<html>
+<body>
+<body background="/Users/samruddhi/Desktop/images.png">
+<h 2 align = "center">
+<h1 a> Images of Plants</h1>
+<img src ="Desktop/drive-download-20230601T160052Z-001/1.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/2.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/3.jpg">
+<img src ="Desktop/drive-download-20230601T160052Z-001/4.jpg">
+</body>
+
+</html>
