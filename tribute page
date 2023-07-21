@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+h1{
+color:white;
+text-align: center;
+font-size:50px;
+}
+p{
+color:white;
+text-align:center;
+font-size:30px;
+border-color:grey;
+border-width:5px;
+border-style:solid;
+}
+</style>
+</head>
+<body>
+<body bgcolor="black">
+<h1>MAHATMA GANDHI</h1>
+<img src="C:\Users\CSE
+LAB\Desktop\mahatma-gandhi-gettyimages-102701091-2048x2048-1.jpg">
+<p align="center"> Tribute to the Father of Nation<br>
+
+“Mahatma Gandhi will always be remembered as long as free men and those who love
+freedom and justice live.”
+</p>
+</body>
+</html>
